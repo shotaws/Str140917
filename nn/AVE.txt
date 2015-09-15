@@ -1,0 +1,17 @@
+CbrApp_cbr19_BytesReceived 0.0
+
+CbrApp_cbr19_BytesSent 100000.0
+
+CbrApp_cbr19_PacketsReceived 7.516129
+
+CbrApp_cbr19_PacketsSent 1000.0
+
+CbrApp_cbr1_BytesReceived 512.4194
+
+CbrApp_cbr1_BytesSent 99700.0
+
+CbrApp_cbr1_PacketsReceived 5.1241937
+
+CbrApp_cbr1_PacketsSent 997.0
+
+CbrApp_cbr200_BytesReceived 0.0

@@ -1,0 +1,5 @@
+CbrApp_cbr1_BytesReceived
+CbrApp_cbr1_BytesSent
+CbrApp_cbr1_DuplicatePacketOutOfWindowErrors
+CbrApp_cbr1_PacketsReceived
+CbrApp_cbr1_PacketsSent
